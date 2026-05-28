@@ -1,0 +1,4 @@
+la ruta post/reporte sirve para enviar informacion desde un usuario hacia el servidor
+y guardar datos dentro de una aplicacion en una aplicacion comunitaria. Podria utilizarse para registrar reportee
+alertar o solicitudes de los cuidadanos. Esta ruta se prueba con herramientas como postman o thunder client ya que no
+funciona escribiendole la URL directamente en el navegador
